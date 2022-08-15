@@ -2,7 +2,7 @@
 
 ### **Untamed code-tamperer in need of house-training** <img src="https://i.imgur.com/tpRGzGY.gif" width="40">
 
-### [Northcoders](https://northcoders.com/) graduate based in Birmingham (but keen to escape).
+#### [Northcoders](https://northcoders.com/) graduate based in Birmingham (but keen to escape).
 
 A diligent, driven and occasionally devious developer, trying to learn something new every day.
 
@@ -39,12 +39,7 @@ Learn a little about what I used to do [here](https://www.youtube.com/watch?v=UD
   <img width="49.5%" src="https://github-readme-streak-stats-79.herokuapp.com?user=schaxmann&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"> 
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=schaxmann&show_icons=true&theme=highcontrast">
 </p>
-<br>
 
 ---
 
-<center>
-
 Zack Schaxmann, 2022.
-
-</center>
