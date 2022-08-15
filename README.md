@@ -1,6 +1,6 @@
 # **Hi, I'm Zack** <img src="https://i.imgur.com/lFNs8I1.gif" width="40">
 
-### **Untamed code-tamperer in need of house-training** <img src="https://i.imgur.com/tpRGzGY.gif" width="40">
+### **An Untamed code-tamperer in need of house-training** <img src="https://i.imgur.com/tpRGzGY.gif" width="40">
 
 #### [Northcoders](https://northcoders.com/) graduate based in Birmingham (but keen to escape).
 
