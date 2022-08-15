@@ -4,8 +4,6 @@
 
 ### [Northcoders](https://northcoders.com/) graduate based in Birmingham (but keen to escape).
 
-<br>
-
 A diligent, driven and occasionally devious developer, trying to learn something new every day.
 
 Exited founder of a digital marketing agency operating in the worlds of VC & Startup.
@@ -39,6 +37,7 @@ Learn a little about what I used to do [here](https://www.youtube.com/watch?v=UD
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-streak-stats-79.herokuapp.com?user=schaxmann&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"> 
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=schaxmann&show_icons=true&theme=highcontrast">
 </p>
 <br>
 
