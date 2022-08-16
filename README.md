@@ -35,6 +35,10 @@ Learn a little about what I used to do [here](https://player.vimeo.com/video/642
 
 <br>
 
+Watch this space, these projects are updated daily 👀
+
+<br>
+
 <p align="left">
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=schaxmann&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D"> 
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=schaxmann&show_icons=true&theme=highcontrast">
