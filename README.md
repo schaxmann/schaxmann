@@ -1,4 +1,4 @@
-## **Hi, I'm Zack, An Untamed code-tamperer** <img src="https://i.imgur.com/tpRGzGY.gif" width="25">
+## **Hi, I'm Zack** <img src="https://i.imgur.com/tpRGzGY.gif" width="30">
 
 #### [Northcoders](https://northcoders.com/) Software Development Bootcamp graduate based in Birmingham (but open to escaping).
 
