@@ -1,6 +1,4 @@
-## **Hi, I'm Zack** <img src="https://i.imgur.com/lFNs8I1.gif" width="40">
-
-#### [Northcoders](https://northcoders.com/) Software Development Bootcamp graduate based in Birmingham (but open to escaping).
+## [Northcoders](https://northcoders.com/) Software Development Bootcamp graduate based in Birmingham (but open to escaping).
 
 A diligent, driven and occasionally devious developer, trying to learn something new every day.
 
@@ -42,4 +40,4 @@ Watch this space, these projects are WIP and updated daily 👀
 
 ---
 
-Zack Schaxmann, 2022<!-- # **Hi, I'm Zack** <img src="https://i.imgur.com/lFNs8I1.gif" width="40"> -->
+Zack Schaxmann, 2022<!-- # **Hi, I'm Zack** <img src="https://i.imgur.com/lFNs8I1.gif" width="40"> --><!-- ## **An Untamed code-tamperer** <img src="https://i.imgur.com/tpRGzGY.gif" width="40"> -->
