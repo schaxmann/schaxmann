@@ -8,7 +8,7 @@ Exited founder of a digital marketing agency operating in the worlds of VC & Sta
 
 Learn a little about what I used to do [here](https://player.vimeo.com/video/642297965).
 
-**Connect with me** on [LinkedIn](https://www.linkedin.com/in/schaxmann/) or email me at [schaxmann@gmail.com](mailto:schaxmann@gmail.com).
+**Connect with me on** [LinkedIn](https://www.linkedin.com/in/schaxmann/) or email me at [schaxmann@gmail.com](mailto:schaxmann@gmail.com).
 
 <br>
 
@@ -31,7 +31,7 @@ Learn a little about what I used to do [here](https://player.vimeo.com/video/642
 | [Hosted here](https://schaxmann-no-news.netlify.app)                                                                                                                                                                                                                                                                                           | [Hosted here](https://just-friends-4c0f0.web.app)                                                                                                                                                                                                                                                                                                                                                                                                                   | [Hosted here](https://schaxmann-news.herokuapp.com/api)                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | [Source code](https://github.com/schaxmann/no-news-react-frontend)                                                                                                                                                                                                                                                                             | [Source code](https://github.com/schaxmann/just-friends)                                                                                                                                                                                                                                                                                                                                                                                                            | [Source code](https://github.com/schaxmann/My-RESTful-API)                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-Watch this space, these projects are WIP and updated daily 👀
+Watch this space, projects are WIP and updated daily 👀
 
 <br>
 
