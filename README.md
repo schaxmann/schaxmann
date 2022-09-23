@@ -8,6 +8,8 @@ Exited founder of a digital marketing agency operating in the worlds of VC & Sta
 
 Learn a little about what I used to do [here](https://player.vimeo.com/video/642297965).
 
+View and download my CV [here](https://github.com/schaxmann/schaxmann/blob/main/Zack_Schaxmann_CV.pdf).
+
 **Connect with me on [LinkedIn](https://www.linkedin.com/in/schaxmann/) or email me at [schaxmann@gmail.com](mailto:schaxmann@gmail.com).**
 
 <br>
